@@ -38,16 +38,19 @@
 ## 賞品
 #### 順位賞
 
-* 順位賞は、麻雀の戦術本と天鳳無料チケット(注1)です。      
-* [『新次元麻雀 ~場況への実戦的対応とケイテンの極意~』](http://www.amazon.co.jp/gp/product/483995397X/ref=ox_sc_act_title_2?ie=UTF8&psc=1&smid=AN1VRQENFRJN5)ASAPIN 著（※2冊あります）
-* [『もっと勝つための現代麻雀技術論 実戦編』](http://www.amazon.co.jp/gp/product/4800304660/ref=ox_sc_act_title_6?ie=UTF8&psc=1&smid=AN1VRQENFRJN5) ネマタ 著
-* [『おしえて!科学する麻雀』](http://www.amazon.co.jp/gp/product/4862483720/ref=ox_sc_act_title_4?ie=UTF8&psc=1&smid=AN1VRQENFRJN5) とつげき東北 著
-* [『麻雀 魔神の読み』](http://www.amazon.co.jp/gp/product/4839944466/ref=ox_sc_act_title_3?ie=UTF8&psc=1&smid=AN1VRQENFRJN5) 渋川 難波 著
-* [『麻雀 魔神の攻め』](http://www.amazon.co.jp/gp/product/4839946558/ref=ox_sc_act_title_1?ie=UTF8&psc=1&smid=AN1VRQENFRJN5) 渋川 難波 著      
+* 順位賞は、麻雀の戦術本と天鳳無料チケット(注1)、そしてニューロン主催の麻雀大会への出場権です。
+  * [『新次元麻雀 ~場況への実戦的対応とケイテンの極意~』](http://www.amazon.co.jp/gp/product/483995397X/ref=ox_sc_act_title_2?ie=UTF8&psc=1&smid=AN1VRQENFRJN5)ASAPIN 著（※2冊あります）
+  * [『もっと勝つための現代麻雀技術論 実戦編』](http://www.amazon.co.jp/gp/product/4800304660/ref=ox_sc_act_title_6?ie=UTF8&psc=1&smid=AN1VRQENFRJN5) ネマタ 著
+  * [『おしえて!科学する麻雀』](http://www.amazon.co.jp/gp/product/4862483720/ref=ox_sc_act_title_4?ie=UTF8&psc=1&smid=AN1VRQENFRJN5) とつげき東北 著
+  * [『麻雀 魔神の読み』](http://www.amazon.co.jp/gp/product/4839944466/ref=ox_sc_act_title_3?ie=UTF8&psc=1&smid=AN1VRQENFRJN5) 渋川 難波 著
+  * [『麻雀 魔神の攻め』](http://www.amazon.co.jp/gp/product/4839946558/ref=ox_sc_act_title_1?ie=UTF8&psc=1&smid=AN1VRQENFRJN5) 渋川 難波 著
 * 1位：上記6冊のうちから好きな本を2冊 + 天鳳無料チケット10枚
 * 2位：1位が選んだ後の4冊から好きな本を1冊 + 天鳳無料チケット6枚
 * 3位：2位が選んだ後の3冊から好きな本を1冊 + 天鳳無料チケット3枚
 * ブービー賞(21位)：[『これだけで勝てる! 麻雀の基本形80』](http://www.amazon.co.jp/gp/product/4812488249/ref=ox_sc_act_title_5?ie=UTF8&psc=1&smid=AN1VRQENFRJN5) 福地誠 著
+* これらに加え、[ノーレート麻雀ネットワーク ニューロン](http://homepage2.nifty.com/neuron/)が主催する『麻雀天下一武道会 U-18代表選考会』への出場権が、本大会の上位数名に与えられます（何名かは未定です）。
+  * 2015年2月22日（日）に、五反田ふれあいサロンで行われます。
+  * 本大会終了後に、上位の方から順にメールで、参加可能かどうかを伺う予定です。
 
 #### 参加賞
 * 麻雀牌ストラップ1個 + 天鳳無料チケット1枚
