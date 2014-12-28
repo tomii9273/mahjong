@@ -51,11 +51,13 @@
 #### 順位賞
 
 * 順位賞は、麻雀の戦術本と天鳳無料チケット(注1)、そしてニューロン主催の麻雀大会への出場権です。
-  * [『新次元麻雀 ~場況への実戦的対応とケイテンの極意~』](http://www.amazon.co.jp/gp/product/483995397X/ref=ox_sc_act_title_2?ie=UTF8&psc=1&smid=AN1VRQENFRJN5)ASAPIN 著
-  * [『もっと勝つための現代麻雀技術論 実戦編』](http://www.amazon.co.jp/gp/product/4800304660/ref=ox_sc_act_title_6?ie=UTF8&psc=1&smid=AN1VRQENFRJN5) ネマタ 著
-  * [『おしえて!科学する麻雀』](http://www.amazon.co.jp/gp/product/4862483720/ref=ox_sc_act_title_4?ie=UTF8&psc=1&smid=AN1VRQENFRJN5) とつげき東北 著
-  * [『麻雀 魔神の読み』](http://www.amazon.co.jp/gp/product/4839944466/ref=ox_sc_act_title_3?ie=UTF8&psc=1&smid=AN1VRQENFRJN5) 渋川 難波 著
-  * 他2冊
+  * [『東大式 知的な人の麻雀術』](http://www.amazon.co.jp/%E6%9D%B1%E5%A4%A7%E5%BC%8F-%E7%9F%A5%E7%9A%84%E3%81%AA%E4%BA%BA%E3%81%AE%E9%BA%BB%E9%9B%80%E8%A1%93-%E5%AD%A6%E3%81%B3%E3%82%84%E3%81%B6%E3%81%A3%E3%81%8F-%E4%BA%95%E5%87%BA-%E6%B4%8B%E4%BB%8B/dp/4625684560/ref=sr_1_36?s=books&ie=UTF8&qid=1419756371&sr=1-36&keywords=%E4%BA%95%E5%87%BA%E6%B4%8B%E4%BB%8B) 井出 洋介 著 [初級者向け]
+  * [『おしえて!科学する麻雀』](http://www.amazon.co.jp/gp/product/4862483720/ref=ox_sc_act_title_4?ie=UTF8&psc=1&smid=AN1VRQENFRJN5) とつげき東北 著 [初～中級者向け]
+  * [『東大式麻雀 強くなる打ち方-ネット時代にも対応 “攻め"のセオリー』](http://www.amazon.co.jp/gp/product/426210821X/ref=pd_lpo_sbs_dp_ss_1?pf_rd_p=187205609&pf_rd_s=lpo-top-stripe&pf_rd_t=201&pf_rd_i=4262108147&pf_rd_m=AN1VRQENFRJN5&pf_rd_r=0XZDNEXS0A2FR85XQ3QV) 井出 洋介 著 [中級者向け]
+  * [『新版 東大式 麻雀に勝つ考え方―勝つための攻守のセオリー』](http://www.amazon.co.jp/%E6%96%B0%E7%89%88-%E6%9D%B1%E5%A4%A7%E5%BC%8F-%E9%BA%BB%E9%9B%80%E3%81%AB%E5%8B%9D%E3%81%A4%E8%80%83%E3%81%88%E6%96%B9%E2%80%95%E5%8B%9D%E3%81%A4%E3%81%9F%E3%82%81%E3%81%AE%E6%94%BB%E5%AE%88%E3%81%AE%E3%82%BB%E3%82%AA%E3%83%AA%E3%83%BC-%E6%B1%A0%E7%94%B0%E6%9B%B8%E5%BA%97%E3%81%AE%E6%9D%B1%E5%A4%A7%E5%BC%8F%E9%BA%BB%E9%9B%80%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA-%E4%BA%95%E5%87%BA/dp/4262108252) 井出 洋介 著 [中級者向け]
+  * [『もっと勝つための現代麻雀技術論 実戦編』](http://www.amazon.co.jp/gp/product/4800304660/ref=ox_sc_act_title_6?ie=UTF8&psc=1&smid=AN1VRQENFRJN5) ネマタ 著 [中級者向け]
+  * [『新次元麻雀 ~場況への実戦的対応とケイテンの極意~』](http://www.amazon.co.jp/gp/product/483995397X/ref=ox_sc_act_title_2?ie=UTF8&psc=1&smid=AN1VRQENFRJN5) ASAPIN 著 [上級者向け]
+  * [『麻雀 魔神の読み』](http://www.amazon.co.jp/gp/product/4839944466/ref=ox_sc_act_title_3?ie=UTF8&psc=1&smid=AN1VRQENFRJN5) 渋川 難波 著 [上級者向け]
 * 1位：上記6冊のうちから好きな本を2冊 + 天鳳無料チケット10枚
 * 2位：1位が選んだ後の4冊から好きな本を1冊 + 天鳳無料チケット6枚
 * 3位：2位が選んだ後の3冊から好きな本を1冊 + 天鳳無料チケット3枚
