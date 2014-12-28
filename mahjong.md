@@ -58,9 +58,9 @@
   * [『もっと勝つための現代麻雀技術論 実戦編』](http://www.amazon.co.jp/gp/product/4800304660/ref=ox_sc_act_title_6?ie=UTF8&psc=1&smid=AN1VRQENFRJN5) ネマタ 著 [中級者向け]
   * [『新次元麻雀 ~場況への実戦的対応とケイテンの極意~』](http://www.amazon.co.jp/gp/product/483995397X/ref=ox_sc_act_title_2?ie=UTF8&psc=1&smid=AN1VRQENFRJN5) ASAPIN 著 [上級者向け]
   * [『麻雀 魔神の読み』](http://www.amazon.co.jp/gp/product/4839944466/ref=ox_sc_act_title_3?ie=UTF8&psc=1&smid=AN1VRQENFRJN5) 渋川 難波 著 [上級者向け]
-* 1位：上記6冊のうちから好きな本を2冊 + 天鳳無料チケット10枚
-* 2位：1位が選んだ後の4冊から好きな本を1冊 + 天鳳無料チケット6枚
-* 3位：2位が選んだ後の3冊から好きな本を1冊 + 天鳳無料チケット3枚
+* 1位：上記7冊のうちから好きな本を2冊 + 天鳳無料チケット10枚
+* 2位：1位が選んだ後の5冊から好きな本を1冊 + 天鳳無料チケット6枚
+* 3位：2位が選んだ後の4冊から好きな本を1冊 + 天鳳無料チケット3枚
 * ブービー賞(21位)：[『これだけで勝てる! 麻雀の基本形80』](http://www.amazon.co.jp/gp/product/4812488249/ref=ox_sc_act_title_5?ie=UTF8&psc=1&smid=AN1VRQENFRJN5) 福地誠 著
 * これらに加え、[ノーレート麻雀ネットワーク ニューロン](http://homepage2.nifty.com/neuron/)が主催する『麻雀天下一武道会 U-18代表選考会』への出場権が、本大会の上位数名に与えられます（何名かは未定です）。
   * 2015年2月22日（日）に、五反田ふれあいサロンで行われます。
