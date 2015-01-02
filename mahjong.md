@@ -8,7 +8,7 @@
 ## 概要
 
 * 日時: 2015年1月4日（日）　12:00開始　18:00頃終了予定
-* 会場: [ニューロン麻雀スクール代々木校](http://homepage2.nifty.com/neuron/bn/t82.html)
+* 会場: [ニューロン麻雀スクール代々木校](http://homepage2.nifty.com/neuron/school/syoyogi.html)
 * 参加資格: 保護者から許可を得た高校生であること
 * 参加費: **無料**
 * 主催: **東京大学麻雀サークル白** [(Web)](http://utmj-haku.sakura.ne.jp/) [(Twitter)](https://twitter.com/utmj_white)
